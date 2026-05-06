@@ -1,0 +1,35 @@
+.gitignore
+  5fa0810783850c81 1-13
+.github/settings.yml
+  5fa0810783850c81 1-42
+CONTRIBUTING.md
+  5fa0810783850c81 1-76
+.github/CODEOWNERS
+  5fa0810783850c81 1
+README.md
+  5fa0810783850c81 1-43
+LICENSE
+  5fa0810783850c81 1-21
+skills/zoe/SKILL.md
+  5fa0810783850c81 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "fb5a403fd1f381c473db03a315422ba949c67c39",
+  "prompts": {
+    "5fa0810783850c81": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_20442d72fffeq8iHLYvKu90qnf",
+        "model": "xiaomi-token-plan-ams/mimo-v2.5"
+      },
+      "human_author": "ZŌE",
+      "messages": [],
+      "total_additions": 312,
+      "total_deletions": 54,
+      "accepted_lines": 248,
+      "overriden_lines": 0
+    }
+  }
+}
