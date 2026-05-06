@@ -1,0 +1,13 @@
+# local env and secrets
+.env
+.env.local
+.env.*.local
+
+# misc
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
