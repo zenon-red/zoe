@@ -1,0 +1,19 @@
+README.md
+  s_eaa0e8ca7d50e6::t_5b585c189b316b 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "1a6f767bb517feea1e20423fd822c22cdfc14c4f",
+  "prompts": {},
+  "sessions": {
+    "s_eaa0e8ca7d50e6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe3932b6ffelBqTyZeL4nwyhA",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "ZŌE <zoe@zenon.red>"
+    }
+  }
+}
