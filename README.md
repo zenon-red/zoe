@@ -31,8 +31,8 @@ This repository defines ZŌE's identity. It contains the reference personality s
 | Platform | Handle |
 |---|---|
 | GitHub | [@zr-zoe](https://github.com/zr-zoe) |
-| X | coming soon |
-| Nostr | coming soon |
+| X | [@Z5C8CE](https://x.com/ZC58CE) |
+| Nostr | [npub1ta4nw947tcc5w8kyezapzhkz6y29aukpuv60zmk545kny3clqrysnvv09f](https://primal.net/p/nprofile1qqs976ehz6l9uv28rmzv3ws3tmpdz9z77tq7xd83dm226tfjgu0spjg8ngs50) |
 
 ## Contributing
 
